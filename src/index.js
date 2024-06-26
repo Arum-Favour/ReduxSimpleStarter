@@ -8,7 +8,7 @@ import SearchBar from "./components/search_bar";
 
 const apiKey ="AIzaSyCCKhv-xVX0ptmOC26NHb__NpoFevEosD4";
 console.log(apiKey);
-class App extends Component {
+class App extends Component { 
   constructor(props) {
     super(props);
 
